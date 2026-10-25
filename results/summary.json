@@ -1,0 +1,26 @@
+{
+  "dataset": "ai-dyci3/pcb-defect-eosje/2",
+  "split_shares": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "split_seed": 0,
+  "test_leakage_roboflow": 0.9986301369863013,
+  "base_model": "yolo11n.pt",
+  "epochs": 50,
+  "fraction": 1.0,
+  "image_size": 640,
+  "map50": 0.9632383709372196,
+  "map50_95": 0.46524423904468387,
+  "test_leakage": 0.0,
+  "costs": {
+    "tp": 10,
+    "fn": 200,
+    "fp": 2,
+    "tn": 0
+  },
+  "base_rate": 0.03,
+  "threshold": 0.22,
+  "cost_per_1000": 538.4934346924673
+}

@@ -1,0 +1,7 @@
+class,train,valid,test,median_size
+missing_hole,2327,477,556,0.046
+mouse_bite,2377,476,502,0.043
+open_circuit,2234,455,467,0.035
+short,2288,473,428,0.057
+spur,2322,573,483,0.05
+spurious_copper,2370,518,521,0.051
